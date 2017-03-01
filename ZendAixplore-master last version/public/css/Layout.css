@@ -1,0 +1,13 @@
+#menulayout {
+	background-color:white;
+	border-color:white;
+	background-image: linear-gradient(rgb(255, 255, 255) 0px, rgb(255, 255, 255) 100%);
+}
+
+#test{
+	text-align: bottom;
+}
+
+#couleurtest {
+	color:#4babf2;
+}
